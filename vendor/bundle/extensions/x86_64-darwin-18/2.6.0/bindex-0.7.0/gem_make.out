@@ -1,0 +1,15 @@
+current directory: /Users/Moniet97/Dropbox/Programming/FLATIRON/module-3/week-2/js-rails-as-api-custom-json-rendering-using-rails-london-web-051319/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+/Users/Moniet97/.rvm/rubies/ruby-2.6.1/bin/ruby -I /Users/Moniet97/.rvm/rubies/ruby-2.6.1/lib/ruby/site_ruby/2.6.0 -r ./siteconf20190628-48246-1h56vrv.rb extconf.rb
+creating Makefile
+
+current directory: /Users/Moniet97/Dropbox/Programming/FLATIRON/module-3/week-2/js-rails-as-api-custom-json-rendering-using-rails-london-web-051319/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/Moniet97/Dropbox/Programming/FLATIRON/module-3/week-2/js-rails-as-api-custom-json-rendering-using-rails-london-web-051319/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/cruby.bundle
+
+current directory: /Users/Moniet97/Dropbox/Programming/FLATIRON/module-3/week-2/js-rails-as-api-custom-json-rendering-using-rails-london-web-051319/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20190628-48246-1game1n/skiptrace
